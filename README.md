@@ -8,7 +8,7 @@
 
 - [Clasificación de los sistemas de segundo orden](docs/Clasificaciondelosequilibrioslineales.pdf)
 
-## Libros
+## Bibliografía
 
 - Analisis de Circuitos En Ingenieria, Hayt
 - Circuitos Eléctricos, Dorf
