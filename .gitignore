@@ -11,6 +11,9 @@
 !P5
 !P5/**/*
 
+!pplane8
+!pplane8/**/*
+
 !.gitignore
 
 **/.DS_Store
